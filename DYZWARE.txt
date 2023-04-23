@@ -763,7 +763,7 @@ function library:Introduction()
     hashLogo.Position = UDim2.new(0.5, 0, 0.5, 0)
     hashLogo.Size = UDim2.new(0, 150, 0, 150)
     hashLogo.Visible = true
-    hashLogo.Image = "https://create.roblox.com/marketplace/asset/13213630436/Nieuw-project-4"
+    hashLogo.Image = "https://tr.rbxcdn.com/360e6b3ed1c5fba7d90638bc8839ef07/420/420/Decal/Png"
     hashLogo.ImageColor3 = Color3.fromRGB(159, 115, 255)
     hashLogo.ImageTransparency = 1
     
